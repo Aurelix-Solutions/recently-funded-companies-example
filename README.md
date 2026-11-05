@@ -1,6 +1,18 @@
 # Recently Funded Companies: Python example
 
-A small, runnable example for [Recently Funded Companies](https://apify.com/aurelix/recently-funded-companies), an Apify Actor by Aurelix.
+**The problem:** You want a list of US companies that just raised money, from official SEC Form D filings, so you can reach them while they are hiring and buying.
+
+**The tool:** [Recently Funded Companies](https://apify.com/aurelix/recently-funded-companies), an Apify Actor by Aurelix. This repository is a small, runnable Python example for it.
+
+**The price:** $5.00 per 1,000 filings on Apify's free plan and $3.50 on paid plans, plus $0.006 per run; you pay only for results. Apify's free plan includes $5 of credit a month.
+
+**Try it** (needs an Apify API token from Console > Settings > API & Integrations):
+
+```bash
+pip install -r requirements.txt
+export APIFY_TOKEN=your_token_here
+python main.py
+```
 
 ## What it does
 
