@@ -1,5 +1,8 @@
 # Recently Funded Companies: Python example
 
+**Recently Funded Companies API - SEC Funding Leads.** US companies that just filed an SEC Form D: amount raised, industry, state, executives, confirmed website. Price, example input and output, and FAQ: [Recently Funded Companies API on the Aurelix tools site](https://aurelix-solutions.github.io/tools/recently-funded-companies/). Run it on the Apify Store: [apify.com/aurelix/recently-funded-companies](https://apify.com/aurelix/recently-funded-companies).
+
+
 **The problem:** You want a list of US companies that just raised money, from official SEC Form D filings, so you can reach them while they are hiring and buying.
 
 **The tool:** [Recently Funded Companies](https://apify.com/aurelix/recently-funded-companies), an Apify Actor by Aurelix. This repository is a small, runnable Python example for it.
